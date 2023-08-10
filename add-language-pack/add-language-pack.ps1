@@ -1,8 +1,8 @@
 ﻿<#
 .SYNOPSIS
-  Name: Add-language-pack.ps1
+  Name: add-language-pack.ps1
 .DESCRIPTION
-Ändrar start order
+  Adding a language pack to the .WIM file.
 .NOTES
     Updated: 2017-11-21
     Release Date: 2017-11-21
